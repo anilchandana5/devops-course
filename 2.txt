@@ -1,1 +1,3 @@
 hello anul kumar
+hello all
+hello every one...i am learning devops
